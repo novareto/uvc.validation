@@ -1,0 +1,50 @@
+Changelog
+=========
+
+0.7.1 (unreleased)
+------------------
+
+- Nothing changed yet.
+
+
+0.7 (2014-11-27)
+----------------
+
+- Nothing changed yet.
+
+
+0.6 (unreleased)
+----------------
+
+- Nothing changed yet.
+
+
+0.5 (2013-11-13)
+----------------
+
+- Nothing changed yet.
+
+
+0.4 (2013-02-20)
+----------------
+
+- Nothing changed yet.
+
+
+0.3 (2011-05-05)
+----------------
+
+- Nothing changed yet.
+
+
+0.2 (2010-06-25)
+----------------
+
+- Nothing changed yet.
+
+
+0.1 (2010-06-25)
+----------------
+
+* Initial release
+
